@@ -1,1 +1,0 @@
-cmd_sound/soc/mediatek/audio_dsp/v2/../mt6853/built-in.a :=  rm -f sound/soc/mediatek/audio_dsp/v2/../mt6853/built-in.a; llvm-ar rcSTPD sound/soc/mediatek/audio_dsp/v2/../mt6853/built-in.a sound/soc/mediatek/audio_dsp/v2/../mt6853/dsp-platform-mem-control.o

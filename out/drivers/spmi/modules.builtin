@@ -1,3 +1,0 @@
-kernel/drivers/spmi/spmi.ko
-kernel/drivers/spmi/mtk-pmif.ko
-kernel/drivers/spmi/mtk-dbg.ko
