@@ -541,8 +541,11 @@ static int argos_pm_qos_notify(struct notifier_block *nfb,
 	cnode = &argos_pdata->devices[type];
 
 	prev_level = cnode->prev_level;
+<<<<<<< HEAD
 
 	pr_debug("%s name:%s, speed:%ldMbps\n", __func__, cnode->desc, speed);
+=======
+>>>>>>> 1933aeca0 (drivers: Nuke kperfmon)
 
 	argos_blocked = cnode->argos_block;
 
