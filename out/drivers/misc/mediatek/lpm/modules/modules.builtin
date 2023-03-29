@@ -1,0 +1,2 @@
+kernel/drivers/misc/mediatek/lpm/modules/debug/common/mtk_dbg_fs_common.ko
+kernel/drivers/misc/mediatek/lpm/modules/debug/common/mtk_lpm_timer.ko

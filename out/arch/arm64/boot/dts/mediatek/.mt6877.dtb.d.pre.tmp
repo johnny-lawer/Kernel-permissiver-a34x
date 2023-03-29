@@ -1,0 +1,31 @@
+arch/arm64/boot/dts/mediatek/.mt6877.dtb.dts.tmp: \
+  ../arch/arm64/boot/dts/mediatek/mt6877.dts \
+  include/generated/autoconf.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/clock/mt6877-clk.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/iio/mt635x-auxadc.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/mfd/mt6315-irq.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/mfd/mt6359-irq.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/interrupt-controller/arm-gic.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/interrupt-controller/irq.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/spmi/spmi.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/memory/mt6877-larb-port.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/mmc/mt6877-msdc.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/gce/mt6877-gce.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/phy/phy.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/pinctrl/mt6877-pinfunc.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/pinctrl/mt65xx.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/soc/mediatek,boot-mode.h \
+  ../scripts/dtc/include-prefixes/dt-bindings/reset/ti-syscon.h \
+  ../arch/arm64/boot/dts/mediatek/sec_debug_mt6877.dtsi \
+  ../arch/arm64/boot/dts/mediatek/v1/mt6360.dtsi \
+  ../arch/arm64/boot/dts/mediatek/mt6315_s6.dtsi \
+  ../arch/arm64/boot/dts/mediatek/mt6315_s3.dtsi \
+  ../arch/arm64/boot/dts/mediatek/mt6359p.dtsi \
+  ../arch/arm64/boot/dts/mediatek/cust_mt6877_msdc.dtsi \
+  ../scripts/dtc/include-prefixes/dt-bindings/gpio/gpio.h \
+  ../arch/arm64/boot/dts/mediatek/mt6877-clkitg.dtsi \
+  ../arch/arm64/boot/dts/mediatek/v1/mt6360_pd.dtsi \
+  ../arch/arm64/boot/dts/mediatek/rt5133.dtsi \
+  ../arch/arm64/boot/dts/mediatek/trusty.dtsi \
+  ../arch/arm64/boot/dts/mediatek/cust_mt6877_connfem.dtsi \
+  ../arch/arm64/boot/dts/mediatek/modem-MTK-pdata.dtsi

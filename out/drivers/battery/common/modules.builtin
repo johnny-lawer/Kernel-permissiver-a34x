@@ -1,0 +1,4 @@
+kernel/drivers/battery/common/sec-direct-charger.ko
+kernel/drivers/battery/common/sec_pd.ko
+kernel/drivers/battery/common/sb_wireless.ko
+kernel/drivers/battery/common/sec-battery.ko

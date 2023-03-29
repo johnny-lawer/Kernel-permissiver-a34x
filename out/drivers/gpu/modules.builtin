@@ -1,0 +1,7 @@
+kernel/drivers/gpu/drm/drm_kms_helper.ko
+kernel/drivers/gpu/drm/drm.ko
+kernel/drivers/gpu/drm/drm_panel_orientation_quirks.ko
+kernel/drivers/gpu/drm/mediatek/mediatek-drm.ko
+kernel/drivers/gpu/drm/panel/panel-s6e8fc5-cmd.ko
+kernel/drivers/gpu/mediatek/ged/ged.ko
+kernel/drivers/gpu/mediatek/hal/mtk_gpu_hal.ko

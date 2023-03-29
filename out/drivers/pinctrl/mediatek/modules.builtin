@@ -1,0 +1,4 @@
+kernel/drivers/pinctrl/mediatek/mtk-eint.ko
+kernel/drivers/pinctrl/mediatek/pinctrl-mtk-common-v2.ko
+kernel/drivers/pinctrl/mediatek/pinctrl-paris.ko
+kernel/drivers/pinctrl/mediatek/pinctrl-mtk-common-v2_debug.ko

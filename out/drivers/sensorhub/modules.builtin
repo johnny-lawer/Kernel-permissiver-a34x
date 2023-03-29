@@ -1,0 +1,2 @@
+kernel/drivers/sensorhub/shub.ko
+kernel/drivers/sensorhub/utility/sensor_core.ko

@@ -1,0 +1,1 @@
+cmd_drivers/gpu/mediatek/gpu_bm_k414/built-in.a :=  rm -f drivers/gpu/mediatek/gpu_bm_k414/built-in.a; llvm-ar rcSTPD drivers/gpu/mediatek/gpu_bm_k414/built-in.a drivers/gpu/mediatek/gpu_bm_k414/gpu_bm.o

@@ -1,0 +1,6 @@
+kernel/drivers/scsi/ufs/ufshcd-core.ko
+kernel/drivers/scsi/ufs/ufs-sec-feature.ko
+kernel/drivers/scsi/ufs/ufs-sec-sysfs.ko
+kernel/drivers/scsi/ufs/ufshcd-pltfrm.ko
+kernel/drivers/scsi/ufs/ufs-mediatek.ko
+kernel/drivers/scsi/ufs/ufs-mediatek-dbg.ko

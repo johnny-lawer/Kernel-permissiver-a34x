@@ -1,0 +1,7 @@
+kernel/drivers/soc/mediatek/mtk-pm-qos.ko
+kernel/drivers/soc/mediatek/mtk-pmic-wrap_v1.ko
+kernel/drivers/soc/mediatek/mtk-cmdq-helper.ko
+kernel/drivers/soc/mediatek/mtk-mbox.ko
+kernel/drivers/soc/mediatek/mtk-socinfo.ko
+kernel/drivers/soc/mediatek/mtk-mbox.ko
+kernel/drivers/soc/mediatek/mtk_tinysys_ipi.ko

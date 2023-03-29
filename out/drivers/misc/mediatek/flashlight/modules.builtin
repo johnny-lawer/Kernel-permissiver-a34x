@@ -1,0 +1,2 @@
+kernel/drivers/misc/mediatek/flashlight/flashlight.ko
+kernel/drivers/misc/mediatek/flashlight/flashlights-mt6360.ko

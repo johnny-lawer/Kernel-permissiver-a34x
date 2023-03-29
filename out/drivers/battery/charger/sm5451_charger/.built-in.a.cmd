@@ -1,0 +1,1 @@
+cmd_drivers/battery/charger/sm5451_charger/built-in.a :=  rm -f drivers/battery/charger/sm5451_charger/built-in.a; llvm-ar rcSTPD drivers/battery/charger/sm5451_charger/built-in.a drivers/battery/charger/sm5451_charger/sm5451_charger.o drivers/battery/charger/sm5451_charger/sm5451_direct_charger.o

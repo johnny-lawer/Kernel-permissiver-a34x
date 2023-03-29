@@ -1,0 +1,5 @@
+kernel/drivers/media/platform/mtk-vcodec/mtk-vcodec-dec.ko
+kernel/drivers/media/platform/mtk-vcodec/mtk-vcodec-enc.ko
+kernel/drivers/media/platform/mtk-vcodec/mtk-vcodec-common.ko
+kernel/drivers/media/platform/mtk-vcodec/mt6877/vcodec_dvfs.ko
+kernel/drivers/media/platform/mtk-vcodec/mt6877/vcodec_bw.ko

@@ -1,0 +1,17 @@
+kernel/drivers/media/media.ko
+kernel/drivers/media/common/videobuf2/videobuf2-common.ko
+kernel/drivers/media/common/videobuf2/videobuf2-v4l2.ko
+kernel/drivers/media/common/videobuf2/videobuf2-memops.ko
+kernel/drivers/media/common/videobuf2/videobuf2-dma-contig.ko
+kernel/drivers/media/platform/mtk-vcodec/mtk-vcodec-dec.ko
+kernel/drivers/media/platform/mtk-vcodec/mtk-vcodec-enc.ko
+kernel/drivers/media/platform/mtk-vcodec/mtk-vcodec-common.ko
+kernel/drivers/media/platform/mtk-vcodec/mt6877/vcodec_dvfs.ko
+kernel/drivers/media/platform/mtk-vcodec/mt6877/vcodec_bw.ko
+kernel/drivers/media/platform/mtk-vcu/mtk-vcu.ko
+kernel/drivers/media/platform/mtk-vcu/mtk_vcodec_mem.ko
+kernel/drivers/media/v4l2-core/videodev.ko
+kernel/drivers/media/v4l2-core/v4l2-common.ko
+kernel/drivers/media/v4l2-core/v4l2-dv-timings.ko
+kernel/drivers/media/v4l2-core/v4l2-mem2mem.ko
+kernel/drivers/media/v4l2-core/v4l2-flash-led-class.ko

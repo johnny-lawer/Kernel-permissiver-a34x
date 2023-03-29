@@ -1,0 +1,5 @@
+kernel/drivers/mfd/mfd-core.ko
+kernel/drivers/mfd/mtk-spmi-pmic.ko
+kernel/drivers/mfd/mt6358-core.ko
+kernel/drivers/mfd/mt635x-ot-debug.ko
+kernel/drivers/mfd/mt6358-misc.ko

@@ -1,0 +1,2 @@
+kernel/drivers/power/reset/reboot-mode.ko
+kernel/drivers/power/reset/syscon-reboot-mode.ko

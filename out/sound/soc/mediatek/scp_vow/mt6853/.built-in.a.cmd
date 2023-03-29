@@ -1,0 +1,1 @@
+cmd_sound/soc/mediatek/scp_vow/mt6853/built-in.a :=  rm -f sound/soc/mediatek/scp_vow/mt6853/built-in.a; llvm-ar rcSTPD sound/soc/mediatek/scp_vow/mt6853/built-in.a sound/soc/mediatek/scp_vow/mt6853/mtk-scp-vow-platform.o

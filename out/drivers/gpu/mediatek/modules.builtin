@@ -1,0 +1,2 @@
+kernel/drivers/gpu/mediatek/ged/ged.ko
+kernel/drivers/gpu/mediatek/hal/mtk_gpu_hal.ko

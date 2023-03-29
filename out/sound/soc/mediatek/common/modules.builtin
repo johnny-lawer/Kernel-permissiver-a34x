@@ -1,0 +1,4 @@
+kernel/sound/soc/mediatek/common/snd-soc-mtk-common.ko
+kernel/sound/soc/mediatek/common/mtk-sram-manager.ko
+kernel/sound/soc/mediatek/common/snd-soc-mtk-sp-common.ko
+kernel/sound/soc/mediatek/common/mtk-usip.ko

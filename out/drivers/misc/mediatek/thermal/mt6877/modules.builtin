@@ -1,0 +1,9 @@
+kernel/drivers/misc/mediatek/thermal/mt6877/src/mtk_lvts_tc.ko
+kernel/drivers/misc/mediatek/thermal/mt6877/src/mtk_tc_wrapper.ko
+kernel/drivers/misc/mediatek/thermal/mt6877/src/mtk_thermal_ipi.ko
+kernel/drivers/misc/mediatek/thermal/mt6877/src/mtk_pmic_efuse.ko
+kernel/drivers/misc/mediatek/thermal/mt6877/src/mtk_ts_6359vcore.ko
+kernel/drivers/misc/mediatek/thermal/mt6877/src/mtk_ts_6359vproc.ko
+kernel/drivers/misc/mediatek/thermal/mt6877/src/mtk_ts_6359vgpu.ko
+kernel/drivers/misc/mediatek/thermal/mt6877/src/mtk_ts_6359tsx.ko
+kernel/drivers/misc/mediatek/thermal/mt6877/src/mtk_ts_6359dcxo.ko

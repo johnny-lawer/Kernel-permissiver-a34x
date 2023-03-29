@@ -1,0 +1,9 @@
+kernel/drivers/misc/mediatek/cameraisp/dpe/isp_60/engine_request.ko
+kernel/drivers/misc/mediatek/cameraisp/dpe/isp_60/camera_dpe.ko
+kernel/drivers/misc/mediatek/cameraisp/dpe/isp_60/videobuf2-dma-contig.ko
+kernel/drivers/misc/mediatek/cameraisp/fdvt/5.1/camera_fdvt.ko
+kernel/drivers/misc/mediatek/cameraisp/mfb/isp_6s/engine_request.ko
+kernel/drivers/misc/mediatek/cameraisp/mfb/isp_6s/camera_mfb.ko
+kernel/drivers/misc/mediatek/cameraisp/rsc/camera_rsc.ko
+kernel/drivers/misc/mediatek/cameraisp/rsc/isp_6s/camera_rsc.ko
+kernel/drivers/misc/mediatek/cameraisp/wpe/isp_6s/camera_wpe.ko

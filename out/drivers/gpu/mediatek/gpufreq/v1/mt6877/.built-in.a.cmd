@@ -1,0 +1,1 @@
+cmd_drivers/gpu/mediatek/gpufreq/v1/mt6877/built-in.a :=  rm -f drivers/gpu/mediatek/gpufreq/v1/mt6877/built-in.a; llvm-ar rcSTPD drivers/gpu/mediatek/gpufreq/v1/mt6877/built-in.a drivers/gpu/mediatek/gpufreq/v1/mt6877/mtk_gpufreq_plat.o

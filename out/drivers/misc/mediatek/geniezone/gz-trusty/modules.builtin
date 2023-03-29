@@ -1,0 +1,5 @@
+kernel/drivers/misc/mediatek/geniezone/gz-trusty/gz_trusty_mod.ko
+kernel/drivers/misc/mediatek/geniezone/gz-trusty/gz_irq_mod.ko
+kernel/drivers/misc/mediatek/geniezone/gz-trusty/gz_virtio_mod.ko
+kernel/drivers/misc/mediatek/geniezone/gz-trusty/gz_ipc_mod.ko
+kernel/drivers/misc/mediatek/geniezone/gz-trusty/gz_log_mod.ko

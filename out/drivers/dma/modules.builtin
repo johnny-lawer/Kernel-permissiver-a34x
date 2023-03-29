@@ -1,0 +1,3 @@
+kernel/drivers/dma/virt-dma.ko
+kernel/drivers/dma/mediatek/mtk-cqdma.ko
+kernel/drivers/dma/mediatek/mtk-uart-apdma.ko

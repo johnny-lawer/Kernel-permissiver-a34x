@@ -1,0 +1,4 @@
+kernel/drivers/iio/industrialio.ko
+kernel/drivers/iio/adc/mt635x-auxadc_v1.ko
+kernel/drivers/iio/adc/mt6577_auxadc.ko
+kernel/drivers/iio/buffer/kfifo_buf.ko

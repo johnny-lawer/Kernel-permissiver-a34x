@@ -1,0 +1,2 @@
+kernel/drivers/watchdog/mtk_wdt.ko
+kernel/drivers/watchdog/softdog.ko

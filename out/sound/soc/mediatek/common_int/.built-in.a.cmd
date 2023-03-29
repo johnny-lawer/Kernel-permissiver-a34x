@@ -1,0 +1,1 @@
+cmd_sound/soc/mediatek/common_int/built-in.a :=  rm -f sound/soc/mediatek/common_int/built-in.a; llvm-ar rcSTPD sound/soc/mediatek/common_int/built-in.a sound/soc/mediatek/common_int/mtk-auddrv-devtree-parser.o sound/soc/mediatek/common_int/mtk-soc-offload-common.o

@@ -1,0 +1,69 @@
+!<thin>
+//                                              952       `
+scp_vow/mt6853/mtk-scp-vow-platform.o/
+scp_vow/mtk-scp-vow-common.o/
+audio_dsp/mt6853/dsp-platform-mem-control.o/
+audio_dsp/v2/audio_buf.o/
+audio_dsp/v2/mtk-dsp-dai.o/
+audio_dsp/v2/mtk-dsp-pcm.o/
+audio_dsp/v2/mtk-dsp-common.o/
+audio_dsp/v2/mtk-dsp-platform-driver.o/
+audio_dsp/v2/mtk-dsp-mem-control.o/
+common_int/mtk-auddrv-devtree-parser.o/
+common_int/mtk-soc-offload-common.o/
+common/mtk-mmap-ion.o/
+common/mtk-afe-platform-driver.o/
+common/mtk-afe-fe-dai.o/
+common/mtk-sram-manager.o/
+common/mtk-sp-pcm-ops.o/
+common/mtk-afe-debug.o/
+common/mtk-sp-spk-amp.o/
+common/mtk-usip.o/
+common/mtk-btcvsd.o/
+mt6877/mt6877-afe-pcm.o/
+mt6877/mt6877-afe-clk.o/
+mt6877/mt6877-afe-gpio.o/
+mt6877/mt6877-dai-adda.o/
+mt6877/mt6877-afe-control.o/
+mt6877/mt6877-dai-i2s.o/
+mt6877/mt6877-dai-hw-gain.o/
+mt6877/mt6877-dai-src.o/
+mt6877/mt6877-dai-pcm.o/
+mt6877/mt6877-dai-hostless.o/
+mt6877/mt6877-misc-control.o/
+mt6877/mt6877-reg-autogen.o/
+mt6877/mt6877-mt6359.o/
+
+/0              0           0     0     644     6376      `
+/39             0           0     0     644     184632    `
+/69             0           0     0     644     22256     `
+/114            0           0     0     644     222400    `
+/140            0           0     0     644     190736    `
+/168            0           0     0     644     209064    `
+/196            0           0     0     644     226992    `
+/227            0           0     0     644     331688    `
+/267            0           0     0     644     251880    `
+/303            0           0     0     644     182640    `
+/343            0           0     0     644     276720    `
+/380            0           0     0     644     152392    `
+/403            0           0     0     644     215896    `
+/437            0           0     0     644     268536    `
+/462            0           0     0     644     154248    `
+/489            0           0     0     644     150608    `
+/514            0           0     0     644     201360    `
+/538            0           0     0     644     238288    `
+/563            0           0     0     644     171776    `
+/582            0           0     0     644     274352    `
+/603            0           0     0     644     400088    `
+/628            0           0     0     644     229544    `
+/653            0           0     0     644     211384    `
+/679            0           0     0     644     296336    `
+/705            0           0     0     644     207752    `
+/734            0           0     0     644     365976    `
+/759            0           0     0     644     198496    `
+/788            0           0     0     644     234536    `
+/813            0           0     0     644     215016    `
+/838            0           0     0     644     205480    `
+/868            0           0     0     644     242472    `
+/898            0           0     0     644     68384     `
+/927            0           0     0     644     277208    `

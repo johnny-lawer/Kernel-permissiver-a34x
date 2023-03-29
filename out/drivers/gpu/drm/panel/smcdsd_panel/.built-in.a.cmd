@@ -1,0 +1,1 @@
+cmd_drivers/gpu/drm/panel/smcdsd_panel/built-in.a :=  rm -f drivers/gpu/drm/panel/smcdsd_panel/built-in.a; llvm-ar rcSTPD drivers/gpu/drm/panel/smcdsd_panel/built-in.a drivers/gpu/drm/panel/smcdsd_panel/panels/built-in.a

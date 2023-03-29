@@ -1,0 +1,1 @@
+cmd_drivers/battery/charger/mtk_charger/built-in.a :=  rm -f drivers/battery/charger/mtk_charger/built-in.a; llvm-ar rcSTPD drivers/battery/charger/mtk_charger/built-in.a drivers/battery/charger/mtk_charger/mtk_charger.o
