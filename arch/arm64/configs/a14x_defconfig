@@ -7753,10 +7753,13 @@ CONFIG_INIT_ON_ALLOC_DEFAULT_ON=y
 # end of Kernel hardening options
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 # CONFIG_SECURITY_DEFEX is not set
 # CONFIG_DEFEX_KERNEL_ONLY is not set
 >>>>>>> 4572e48bc (a14x_defconfig: Disable defex and proca)
+=======
+>>>>>>> a1cd818d9 (security: Kill defex)
 # CONFIG_PROCA=y
 # CONFIG_PROCA_GKI_10 is not set
 # CONFIG_PROCA_S_OS is not set
